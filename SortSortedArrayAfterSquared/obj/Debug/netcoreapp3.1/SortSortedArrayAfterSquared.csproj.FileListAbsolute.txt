@@ -1,0 +1,13 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\bin\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.csprojAssemblyReference.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\SortSortedArrayAfterSquared\obj\Debug\netcoreapp3.1\SortSortedArrayAfterSquared.genruntimeconfig.cache

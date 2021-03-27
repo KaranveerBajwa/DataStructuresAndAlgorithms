@@ -1,0 +1,12 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\bin\Debug\netcoreapp3.1\MoveAllZeroesToLeft.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\MoveAllZeroesToLeft\obj\Debug\netcoreapp3.1\MoveAllZeroesToLeft.genruntimeconfig.cache

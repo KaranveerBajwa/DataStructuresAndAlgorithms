@@ -1,0 +1,12 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\bin\Debug\netcoreapp3.1\ReverseStringRecursively.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseStringRecursively\obj\Debug\netcoreapp3.1\ReverseStringRecursively.genruntimeconfig.cache

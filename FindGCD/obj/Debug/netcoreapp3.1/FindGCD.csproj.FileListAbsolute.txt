@@ -1,0 +1,12 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\bin\Debug\netcoreapp3.1\FindGCD.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\FindGCD\obj\Debug\netcoreapp3.1\FindGCD.genruntimeconfig.cache

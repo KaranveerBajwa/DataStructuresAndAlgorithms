@@ -1,0 +1,12 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\bin\Debug\netcoreapp3.1\CheckForPrime.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\CheckForPrime\obj\Debug\netcoreapp3.1\CheckForPrime.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.exe
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.deps.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.runtimeconfig.dev.json
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\bin\Debug\netcoreapp3.1\DistributeCandies.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfoInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.AssemblyInfo.cs
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.csproj.CoreCompileInputs.cache
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.dll
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.pdb
+C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\DistributeCandies\obj\Debug\netcoreapp3.1\DistributeCandies.genruntimeconfig.cache
