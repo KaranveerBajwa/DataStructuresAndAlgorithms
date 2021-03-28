@@ -1,7 +1,0 @@
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\bin\Debug\ReverseArray.exe.config
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\bin\Debug\ReverseArray.exe
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\bin\Debug\ReverseArray.pdb
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\obj\Debug\ReverseArray.csprojAssemblyReference.cache
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\obj\Debug\ReverseArray.exe
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReverseArray\obj\Debug\ReverseArray.pdb

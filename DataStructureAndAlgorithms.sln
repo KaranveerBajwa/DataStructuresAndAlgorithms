@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingNumber", "MissingNum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromicSubstrings", "PalindromicSubstrings\PalindromicSubstrings.csproj", "{73F60877-AF03-4AFF-9899-08C99EBF2416}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbStairs", "ClimbStairs\ClimbStairs.csproj", "{3311DBAD-3F74-4593-B206-A22D5F5D6795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSmallestCommonElementInAllRowsInMatrix", "FindSmallestCommonElementInMatrix\FindSmallestCommonElementInAllRowsInMatrix.csproj", "{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +171,14 @@ Global
 		{73F60877-AF03-4AFF-9899-08C99EBF2416}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F60877-AF03-4AFF-9899-08C99EBF2416}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F60877-AF03-4AFF-9899-08C99EBF2416}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3311DBAD-3F74-4593-B206-A22D5F5D6795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3311DBAD-3F74-4593-B206-A22D5F5D6795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3311DBAD-3F74-4593-B206-A22D5F5D6795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3311DBAD-3F74-4593-B206-A22D5F5D6795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +209,8 @@ Global
 		{322EBBE9-03F9-4A5F-B923-A06EA363233F} = {04DA40B4-5B34-4266-9347-C7ACBAAF347E}
 		{6CAC5372-40F7-4A2E-95FD-31832365BDB1} = {04DA40B4-5B34-4266-9347-C7ACBAAF347E}
 		{73F60877-AF03-4AFF-9899-08C99EBF2416} = {04DA40B4-5B34-4266-9347-C7ACBAAF347E}
+		{3311DBAD-3F74-4593-B206-A22D5F5D6795} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
+		{BF02B117-A7C1-4BC9-BC84-BD1ED29FB6ED} = {04DA40B4-5B34-4266-9347-C7ACBAAF347E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}

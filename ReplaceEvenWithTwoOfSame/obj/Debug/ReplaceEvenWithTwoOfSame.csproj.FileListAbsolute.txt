@@ -1,7 +1,0 @@
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\bin\Debug\ReplaceEvenWithTwoOfSame.exe.config
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\bin\Debug\ReplaceEvenWithTwoOfSame.exe
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\bin\Debug\ReplaceEvenWithTwoOfSame.pdb
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\obj\Debug\ReplaceEvenWithTwoOfSame.csprojAssemblyReference.cache
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\obj\Debug\ReplaceEvenWithTwoOfSame.csproj.CoreCompileInputs.cache
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\obj\Debug\ReplaceEvenWithTwoOfSame.exe
-C:\Users\v-bajkar\source\repos\DataStructureAndAlgorithms\ReplaceEvenWithTwoOfSame\obj\Debug\ReplaceEvenWithTwoOfSame.pdb

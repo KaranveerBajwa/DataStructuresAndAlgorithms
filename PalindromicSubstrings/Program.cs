@@ -39,6 +39,7 @@ Todo: Return the substrings
         int right = i;
         while (left >= 0 || right < s.Length)
         {
+          if(left <0 )
           if (s[left] == s[right])
           {
             count++;
