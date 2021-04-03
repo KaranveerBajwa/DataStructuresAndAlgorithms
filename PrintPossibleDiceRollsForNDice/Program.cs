@@ -8,6 +8,8 @@ namespace PrintPossibleDiceRollsForNDice
     static void Main(string[] args)
     {
       PrintDiceRolls(3);
+
+      List<List<int>> possibleDiceRolls = GetListOfDiceRolls(3);
       Console.WriteLine("Hello World!");
     }
 
@@ -15,6 +17,31 @@ namespace PrintPossibleDiceRollsForNDice
     {
       List<int> diceRolls = new List<int>();
       PrintDiceRollsHelper(n, diceRolls);
+    }
+
+    static List<List<int>> GetListOfDiceRolls(int n)
+    {
+      List<int> diceRolls = new List<int>();
+      List<List<int>> possibleDiceRolls = new List<List<int>>();
+      GetListOfDiceRollsHelper(n, diceRolls, possibleDiceRolls);
+      return possibleDiceRolls;
+    }
+
+    static void GetListOfDiceRollsHelper(int n, List<int> diceRolls, List<List<int>> possibleDiceRolls)
+    {
+      if (n == 0)
+      {
+        possibleDiceRolls.Add(new List<int>(diceRolls));
+      }
+      else
+      {
+        for (int i = 1; i <= 6; i++)
+        {
+          diceRolls.Add(i);
+          GetListOfDiceRollsHelper(n - 1, diceRolls, possibleDiceRolls);
+          diceRolls.RemoveAt(diceRolls.Count - 1);
+        }
+      }
     }
 
     static void PrintDiceRollsHelper(int n, List<int> diceRolls)
