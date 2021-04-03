@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetsOfString", "SubsetsO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubsetOfArray", "SubsetOfArray\SubsetOfArray.csproj", "{726D7F2A-83D6-4E81-8199-5772E6C24251}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintPossibleDiceRollsForNDice", "PrintPossibleDiceRollsForNDice\PrintPossibleDiceRollsForNDice.csproj", "{83873414-0B2F-47C8-878E-0AA45DCF2AE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -275,6 +277,10 @@ Global
 		{726D7F2A-83D6-4E81-8199-5772E6C24251}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726D7F2A-83D6-4E81-8199-5772E6C24251}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726D7F2A-83D6-4E81-8199-5772E6C24251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83873414-0B2F-47C8-878E-0AA45DCF2AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83873414-0B2F-47C8-878E-0AA45DCF2AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83873414-0B2F-47C8-878E-0AA45DCF2AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83873414-0B2F-47C8-878E-0AA45DCF2AE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -321,6 +327,7 @@ Global
 		{7EFB9292-3B3E-49B2-A1E5-BED234E21181} = {9A3FCCE5-0009-4416-95A5-41FA3241F610}
 		{EDAF5ABF-B748-4EE7-85B9-36E9C8E76A89} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
 		{726D7F2A-83D6-4E81-8199-5772E6C24251} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
+		{83873414-0B2F-47C8-878E-0AA45DCF2AE2} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
