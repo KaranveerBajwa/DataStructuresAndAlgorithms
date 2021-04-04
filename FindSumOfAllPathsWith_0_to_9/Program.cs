@@ -28,7 +28,7 @@ Sum should be 234 + 236 + 298 + 2953 = 3721
       Console.WriteLine(SumOfAllPaths(root));
 
       TreeNode root1 = new TreeNode(9);
-      root1.Left = new TreeNode(7);
+      root1.Left = new TreeNode(0);
       root1.Right = new TreeNode(1);
       root1.Left.Left = new TreeNode(4);
       root1.Right.Left = new TreeNode(9);
