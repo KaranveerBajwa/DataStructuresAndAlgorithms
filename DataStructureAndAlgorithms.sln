@@ -109,11 +109,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintPossibleDiceRollsForND
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DepthFirstSearch", "DepthFirstSearch", "{ED3278D7-1C25-45BC-9978-475F99FEA822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryPathTreeSum", "BinaryPathTreeSum\BinaryPathTreeSum.csproj", "{D5B04AD3-481F-42B4-8F1A-A058C3237D5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryPathTreeSum", "BinaryPathTreeSum\BinaryPathTreeSum.csproj", "{D5B04AD3-481F-42B4-8F1A-A058C3237D5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllPathsForSum", "AllPathsForSum\AllPathsForSum.csproj", "{1114CC56-5077-4F3F-83DB-9764B0F4B838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AllPathsForSum", "AllPathsForSum\AllPathsForSum.csproj", "{1114CC56-5077-4F3F-83DB-9764B0F4B838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnAllRootToLeafPaths", "ReturnAllRootToLeafPaths\ReturnAllRootToLeafPaths.csproj", "{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReturnAllRootToLeafPaths", "ReturnAllRootToLeafPaths\ReturnAllRootToLeafPaths.csproj", "{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSumFromRootToLeaf", "MaximumSumFromRootToLeaf\MaximumSumFromRootToLeaf.csproj", "{5F744196-F02F-4141-8C9C-6827042DEF66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -301,6 +303,10 @@ Global
 		{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F744196-F02F-4141-8C9C-6827042DEF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F744196-F02F-4141-8C9C-6827042DEF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F744196-F02F-4141-8C9C-6827042DEF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F744196-F02F-4141-8C9C-6827042DEF66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -352,6 +358,7 @@ Global
 		{D5B04AD3-481F-42B4-8F1A-A058C3237D5B} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 		{1114CC56-5077-4F3F-83DB-9764B0F4B838} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 		{13FD01F6-C3BD-4BAA-BAB2-56F742C6F9F9} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
+		{5F744196-F02F-4141-8C9C-6827042DEF66} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
