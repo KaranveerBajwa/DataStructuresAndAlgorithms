@@ -38,19 +38,16 @@ namespace MergeInterval
         int end = intervals[0].End;
         for (int i = 1; i < intervals.Count; i++)
         {
-          if (intervals[i].Start <= end)
-          {
-            if (intervals[i].End > end)
-            {
-              end = intervals[i].End;
-            }
-          }
-          else
-          {
-            mergedIntervals.Add(new Interval(start, end));
-            start = intervals[i].Start;
-            end = intervals[i].End;
-          }
+        if (intervals[i].Start <= end)
+        {
+          end = Math.Max(end, intervals[i].End);
+        }
+        else
+        {
+          mergedIntervals.Add(new Interval(start, end));
+          start = intervals[i].Start;
+          end = intervals[i].End;
+        }
         }
         mergedIntervals.Add(new Interval(start, end));
 

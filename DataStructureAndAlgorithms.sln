@@ -121,7 +121,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSumOfAllPathsWith_0_to_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceExistInTreeFromRootToLeaf", "SequenceExistInTreeFromRootToLeaf\SequenceExistInTreeFromRootToLeaf.csproj", "{87157AB1-3F99-4D85-A53D-A8EEE30A8CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeInterval", "MergeInterval\MergeInterval.csproj", "{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeInterval", "MergeInterval\MergeInterval.csproj", "{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntervalToSortedIntervalList", "InsertIntervalToSortedIntervalList\InsertIntervalToSortedIntervalList.csproj", "{D3A14BA1-7725-4C87-903F-86ECB55B801A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -325,6 +327,10 @@ Global
 		{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -380,6 +386,7 @@ Global
 		{6A5C08E4-1DE9-45BC-BDE6-968A4C90C939} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 		{87157AB1-3F99-4D85-A53D-A8EEE30A8CD3} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 		{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E} = {5846B3D8-D798-4284-B931-A961D59A071C}
+		{D3A14BA1-7725-4C87-903F-86ECB55B801A} = {5846B3D8-D798-4284-B931-A961D59A071C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
