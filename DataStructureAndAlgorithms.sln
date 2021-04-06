@@ -125,6 +125,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeInterval", "MergeInter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntervalToSortedIntervalList", "InsertIntervalToSortedIntervalList\InsertIntervalToSortedIntervalList.csproj", "{D3A14BA1-7725-4C87-903F-86ECB55B801A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionIntervals", "IntersectionIntervals\IntersectionIntervals.csproj", "{0C57A11C-BF25-405B-ACF1-CE2642014317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConflictingAppointments", "ConflictingAppointments\ConflictingAppointments.csproj", "{A72244E9-E66F-474C-8EE1-92B83207EBDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -331,6 +335,14 @@ Global
 		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A14BA1-7725-4C87-903F-86ECB55B801A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C57A11C-BF25-405B-ACF1-CE2642014317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C57A11C-BF25-405B-ACF1-CE2642014317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C57A11C-BF25-405B-ACF1-CE2642014317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C57A11C-BF25-405B-ACF1-CE2642014317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72244E9-E66F-474C-8EE1-92B83207EBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72244E9-E66F-474C-8EE1-92B83207EBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72244E9-E66F-474C-8EE1-92B83207EBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72244E9-E66F-474C-8EE1-92B83207EBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -387,6 +399,8 @@ Global
 		{87157AB1-3F99-4D85-A53D-A8EEE30A8CD3} = {ED3278D7-1C25-45BC-9978-475F99FEA822}
 		{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E} = {5846B3D8-D798-4284-B931-A961D59A071C}
 		{D3A14BA1-7725-4C87-903F-86ECB55B801A} = {5846B3D8-D798-4284-B931-A961D59A071C}
+		{0C57A11C-BF25-405B-ACF1-CE2642014317} = {5846B3D8-D798-4284-B931-A961D59A071C}
+		{A72244E9-E66F-474C-8EE1-92B83207EBDF} = {5846B3D8-D798-4284-B931-A961D59A071C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
