@@ -123,19 +123,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceExistInTreeFromRoot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeInterval", "MergeInterval\MergeInterval.csproj", "{5B689BE1-9B2A-4B2B-9B85-CECC3680CE8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertIntervalToSortedIntervalList", "InsertIntervalToSortedIntervalList\InsertIntervalToSortedIntervalList.csproj", "{D3A14BA1-7725-4C87-903F-86ECB55B801A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertIntervalToSortedIntervalList", "InsertIntervalToSortedIntervalList\InsertIntervalToSortedIntervalList.csproj", "{D3A14BA1-7725-4C87-903F-86ECB55B801A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionIntervals", "IntersectionIntervals\IntersectionIntervals.csproj", "{0C57A11C-BF25-405B-ACF1-CE2642014317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionIntervals", "IntersectionIntervals\IntersectionIntervals.csproj", "{0C57A11C-BF25-405B-ACF1-CE2642014317}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConflictingAppointments", "ConflictingAppointments\ConflictingAppointments.csproj", "{A72244E9-E66F-474C-8EE1-92B83207EBDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConflictingAppointments", "ConflictingAppointments\ConflictingAppointments.csproj", "{A72244E9-E66F-474C-8EE1-92B83207EBDF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Heaps", "Heaps", "{46B79929-F4B9-4A02-BC4A-9147BBA3B649}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxHeap", "MaxHeap\MaxHeap.csproj", "{CEBDFB7C-9A11-4D24-85F7-0C7628D1C0CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxHeap", "MaxHeap\MaxHeap.csproj", "{CEBDFB7C-9A11-4D24-85F7-0C7628D1C0CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHeap", "TestHeap\TestHeap.csproj", "{D5189A22-FD21-49C5-BD18-B02114CFAB8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHeap", "TestHeap\TestHeap.csproj", "{D5189A22-FD21-49C5-BD18-B02114CFAB8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNSmallNumbers", "FindNSmallNumbers\FindNSmallNumbers.csproj", "{10361295-DDB8-4BF7-9D0A-BE05E60AD964}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindNSmallNumbers", "FindNSmallNumbers\FindNSmallNumbers.csproj", "{10361295-DDB8-4BF7-9D0A-BE05E60AD964}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedianOfStream", "MedianOfStream\MedianOfStream.csproj", "{7E2DB1B5-F6DC-43B3-89D6-64B965E87213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetNthNodeInLinkedList", "GetNthNodeInLinkedList\GetNthNodeInLinkedList.csproj", "{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +367,14 @@ Global
 		{10361295-DDB8-4BF7-9D0A-BE05E60AD964}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10361295-DDB8-4BF7-9D0A-BE05E60AD964}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10361295-DDB8-4BF7-9D0A-BE05E60AD964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2DB1B5-F6DC-43B3-89D6-64B965E87213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2DB1B5-F6DC-43B3-89D6-64B965E87213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2DB1B5-F6DC-43B3-89D6-64B965E87213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2DB1B5-F6DC-43B3-89D6-64B965E87213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -424,6 +436,8 @@ Global
 		{CEBDFB7C-9A11-4D24-85F7-0C7628D1C0CC} = {46B79929-F4B9-4A02-BC4A-9147BBA3B649}
 		{D5189A22-FD21-49C5-BD18-B02114CFAB8B} = {46B79929-F4B9-4A02-BC4A-9147BBA3B649}
 		{10361295-DDB8-4BF7-9D0A-BE05E60AD964} = {46B79929-F4B9-4A02-BC4A-9147BBA3B649}
+		{7E2DB1B5-F6DC-43B3-89D6-64B965E87213} = {46B79929-F4B9-4A02-BC4A-9147BBA3B649}
+		{AFD21D59-0BAF-48AA-AA5C-CC40F827DD56} = {9A3FCCE5-0009-4416-95A5-41FA3241F610}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
