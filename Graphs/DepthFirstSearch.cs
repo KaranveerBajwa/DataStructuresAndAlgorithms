@@ -14,6 +14,7 @@ namespace Graphs
     {
       edgeTo = new int[g.VertexCount];
       visited = new bool[g.VertexCount];
+      Source = source;
       DFS(g, source);
     }
 
@@ -29,5 +30,27 @@ namespace Graphs
         }  
       }
     }
+
+    public bool HasPathTo(int v)
+    {
+      return visited[v];
+    }
+
+    public IEnumerable<int> PathTo(int v)
+    {
+      if (!HasPathTo(v))
+        return null;
+
+      Stack<int> path = new Stack<int>();
+      int temp = v;
+      for (int i = v; edgeTo[i] != Source; i = edgeTo[i])
+      {
+        path.Push(i);
+      }
+      path.Push(Source);
+
+      return path;
+    }
+
   }
 }

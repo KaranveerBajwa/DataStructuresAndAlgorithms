@@ -8,7 +8,7 @@ namespace TestSortImplementation
     static int global = 0;
     static void Main(string[] args)
     {
-      int[] arr = { 5,3,2,4,1};
+      int[] arr = {3,1,2 };
       int[] aux = new int[arr.Length];
       int[] count = { 0 };
       var res = Sort(arr, aux, 0, arr.Length - 1, count);
@@ -33,20 +33,20 @@ namespace TestSortImplementation
     {
       int invCount = 0;
       int i = lo;
-      int j = mid + 1;
+      int j = mid + 1 ;
       // copy the range to auxillary array
       for (int k = lo; k <= hi; k++)
         aux[k] = arr[k];
 
       for (int k = lo; k <= hi; k++)
       {
-        if (i > mid)
+        if (i > mid  )
           arr[k] = aux[j++];
         else if (j > hi)
-          arr[k] = aux[k++];
+          arr[k] = aux[i++];
         else if (aux[i] > aux[j])
         {
-          invCount = invCount + (mid -i);
+          invCount = invCount + (mid + 1  -i);
           arr[k] = aux[j++];
         }
         else
