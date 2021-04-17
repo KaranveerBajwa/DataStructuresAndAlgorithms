@@ -21,11 +21,11 @@ namespace CountNumberOfOccranceInArray
     {
       if (curIndex == nums.Length)
         return 0;
-
-      int count = 0;
+ 
       if (nums[curIndex] == target)
-        count = 1;
-      return count + CountOccuranceHelper(nums, target, curIndex + 1);
+        return 1 + CountOccuranceHelper(nums, target, curIndex + 1);
+      else
+        return CountOccuranceHelper(nums, target, curIndex + 1);
     
     }
   }
