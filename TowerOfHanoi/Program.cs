@@ -23,8 +23,8 @@ namespace TowerOfHanoi
         return;
 
       TOH(n - 1, 'A', 'C', 'B');
-      Console.WriteLine($"Move disk from {a} to {c}");
-      TOH(n - 1, 'B', 'C', 'A');
+      Console.WriteLine($"Move {n} disk from {a} to {c}");
+      TOH(n - 1, 'B', 'A', 'C');
 
 
     }
