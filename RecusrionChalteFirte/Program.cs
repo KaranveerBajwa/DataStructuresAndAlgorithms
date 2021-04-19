@@ -17,6 +17,7 @@ namespace RecusrionChalteFirte
     7.
     8. Check number is palindrome if 100 false if 101 true
     9. GCD Euclid
+    10. Print array elements with recursion
 
      */
     static void Main(string[] args)
@@ -59,9 +60,13 @@ namespace RecusrionChalteFirte
       //Console.WriteLine(GetFactorial(13, 11));
       //Console.WriteLine(GetFactorial(4,4));
 
-      Console.WriteLine(GCD(7, 8));
-      Console.WriteLine(GCD(2, 4));
+      //Console.WriteLine(GCD(7, 8));
+      //Console.WriteLine(GCD(2, 4));
 
+      PrintArrayRecursively(new int[] { 1, 2, 3, 4, 5 }, 5);
+      Console.WriteLine();
+      PrintArrayRecursively(new int[]{ 5,4,2,1}, 4);
+      Console.WriteLine();
       Console.WriteLine("What a wonderful World!");
     }
 
@@ -191,5 +196,15 @@ namespace RecusrionChalteFirte
       else
         return GCD(b - a, a);    
     }
+
+    static void PrintArrayRecursively(int[] arr, int n)
+    {
+      if (n == 0)
+        return;
+
+      PrintArrayRecursively(arr, n - 1);
+      Console.Write(arr[n-1] + " ");
+    }
+  
   }
 }
