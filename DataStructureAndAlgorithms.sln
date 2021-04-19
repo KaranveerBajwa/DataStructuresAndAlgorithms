@@ -193,6 +193,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeCuttingProblem", "RopeC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{963AC160-BE48-493F-B58A-BDBFCFAA9885}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicPrograming", "DynamicPrograming", "{1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +523,10 @@ Global
 		{963AC160-BE48-493F-B58A-BDBFCFAA9885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963AC160-BE48-493F-B58A-BDBFCFAA9885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963AC160-BE48-493F-B58A-BDBFCFAA9885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -604,6 +612,7 @@ Global
 		{27677C57-30C1-4193-9DB4-3F33649CBE36} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
 		{386FBDF1-CD53-4B8A-AE51-9DA32C8A4D81} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
 		{963AC160-BE48-493F-B58A-BDBFCFAA9885} = {947A9DD2-C3E4-4FDB-B17C-C68B77C68363}
+		{8C9439DC-D3E9-4A07-8EBF-8558C30041B6} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
