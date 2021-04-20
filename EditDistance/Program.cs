@@ -39,8 +39,8 @@ exection -> execution (insert 'u')
       Console.WriteLine();
       Console.WriteLine(MinimumEditsTabulation("CAT", "CUT"));
       Console.WriteLine(MinimumEditsTabulation("Saturday", "Sunday"));
-      Console.WriteLine("What a wonderful World!");
 
+      Console.WriteLine("What a wonderful World!");
     }
 
     static int MinimumEditsTabulation(string s1, string s2)
