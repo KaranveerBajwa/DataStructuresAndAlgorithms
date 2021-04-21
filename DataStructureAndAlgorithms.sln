@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequenc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumCuts", "MaximumCuts\MaximumCuts.csproj", "{5532CE66-828F-4A05-B0D0-511D5605C72D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCoinsToMakeValue", "MinimumCointsToMakeValue\MinimumCoinsToMakeValue.csproj", "{229185FE-AF48-4771-B8D7-F48A17C6DE3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -577,6 +579,10 @@ Global
 		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -671,6 +677,7 @@ Global
 		{71386E41-95FB-4FD8-928E-A88AAD17B823} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 		{5532CE66-828F-4A05-B0D0-511D5605C72D} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{229185FE-AF48-4771-B8D7-F48A17C6DE3E} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
