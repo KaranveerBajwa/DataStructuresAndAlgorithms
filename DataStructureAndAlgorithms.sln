@@ -189,27 +189,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumDifficultyOfJobSched
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecusrionChalteFirte", "RecusrionChalteFirte\RecusrionChalteFirte.csproj", "{27677C57-30C1-4193-9DB4-3F33649CBE36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RopeCuttingProblem", "RopeCuttingProblem\RopeCuttingProblem.csproj", "{386FBDF1-CD53-4B8A-AE51-9DA32C8A4D81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RopeCuttingProblem", "RopeCuttingProblem\RopeCuttingProblem.csproj", "{386FBDF1-CD53-4B8A-AE51-9DA32C8A4D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{963AC160-BE48-493F-B58A-BDBFCFAA9885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{963AC160-BE48-493F-B58A-BDBFCFAA9885}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicPrograming", "DynamicPrograming", "{1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{8C9439DC-D3E9-4A07-8EBF-8558C30041B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChangingProblem", "CoinChangingProblem\CoinChangingProblem.csproj", "{1AF36198-999E-43B2-B698-ED6E9E46C5FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinChangingProblem", "CoinChangingProblem\CoinChangingProblem.csproj", "{1AF36198-999E-43B2-B698-ED6E9E46C5FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditDistance", "EditDistance\EditDistance.csproj", "{123B45B7-DDCD-4DFE-9B1E-C6A18F254ED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EditDistance", "EditDistance\EditDistance.csproj", "{123B45B7-DDCD-4DFE-9B1E-C6A18F254ED4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCodeApril2021", "LeetCodeApril2021", "{EF34675F-3FF8-460D-8016-3E46EB863F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{131A0BD8-AE81-407D-8CAA-250A3E289D91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{131A0BD8-AE81-407D-8CAA-250A3E289D91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllAdjacentDuplicatesInstring_II", "RemoveDuplicatesInstring_II\RemoveAllAdjacentDuplicatesInstring_II.csproj", "{800061E7-05F0-4A5D-89C3-E0F60FB8B229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveAllAdjacentDuplicatesInstring_II", "RemoveDuplicatesInstring_II\RemoveAllAdjacentDuplicatesInstring_II.csproj", "{800061E7-05F0-4A5D-89C3-E0F60FB8B229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixSumOf2DArray", "PrefixSumOf2DArray\PrefixSumOf2DArray.csproj", "{7D01BD97-9B33-40A4-91DE-CEC0E30D91A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrefixSumOf2DArray", "PrefixSumOf2DArray\PrefixSumOf2DArray.csproj", "{7D01BD97-9B33-40A4-91DE-CEC0E30D91A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumJumpsToReachEnd", "MinimumJumpsToReachEnd\MinimumJumpsToReachEnd.csproj", "{71386E41-95FB-4FD8-928E-A88AAD17B823}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumJumpsToReachEnd", "MinimumJumpsToReachEnd\MinimumJumpsToReachEnd.csproj", "{71386E41-95FB-4FD8-928E-A88AAD17B823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumCuts", "MaximumCuts\MaximumCuts.csproj", "{5532CE66-828F-4A05-B0D0-511D5605C72D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -565,6 +569,14 @@ Global
 		{71386E41-95FB-4FD8-928E-A88AAD17B823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71386E41-95FB-4FD8-928E-A88AAD17B823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71386E41-95FB-4FD8-928E-A88AAD17B823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5532CE66-828F-4A05-B0D0-511D5605C72D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -657,6 +669,8 @@ Global
 		{800061E7-05F0-4A5D-89C3-E0F60FB8B229} = {EF34675F-3FF8-460D-8016-3E46EB863F73}
 		{7D01BD97-9B33-40A4-91DE-CEC0E30D91A4} = {D14A7553-23D1-4C36-961F-3BEF465800ED}
 		{71386E41-95FB-4FD8-928E-A88AAD17B823} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{5532CE66-828F-4A05-B0D0-511D5605C72D} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
