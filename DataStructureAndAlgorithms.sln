@@ -211,11 +211,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrefixSumOf2DArray", "Prefi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumJumpsToReachEnd", "MinimumJumpsToReachEnd\MinimumJumpsToReachEnd.csproj", "{71386E41-95FB-4FD8-928E-A88AAD17B823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.csproj", "{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumCuts", "MaximumCuts\MaximumCuts.csproj", "{5532CE66-828F-4A05-B0D0-511D5605C72D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumCuts", "MaximumCuts\MaximumCuts.csproj", "{5532CE66-828F-4A05-B0D0-511D5605C72D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumCoinsToMakeValue", "MinimumCointsToMakeValue\MinimumCoinsToMakeValue.csproj", "{229185FE-AF48-4771-B8D7-F48A17C6DE3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumCoinsToMakeValue", "MinimumCointsToMakeValue\MinimumCoinsToMakeValue.csproj", "{229185FE-AF48-4771-B8D7-F48A17C6DE3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Knapsack", "01Knapsack\01Knapsack.csproj", "{FC43F31E-CADA-4243-A1F6-97D60E70A093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubstring", "LongestCommonSubstring\LongestCommonSubstring.csproj", "{DF79F6F0-A55C-4460-A936-45ACDE23DA7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffBetweenTwoStrings", "DiffBetweenTwoStrings\DiffBetweenTwoStrings.csproj", "{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -583,6 +589,18 @@ Global
 		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{229185FE-AF48-4771-B8D7-F48A17C6DE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC43F31E-CADA-4243-A1F6-97D60E70A093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC43F31E-CADA-4243-A1F6-97D60E70A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC43F31E-CADA-4243-A1F6-97D60E70A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC43F31E-CADA-4243-A1F6-97D60E70A093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF79F6F0-A55C-4460-A936-45ACDE23DA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF79F6F0-A55C-4460-A936-45ACDE23DA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF79F6F0-A55C-4460-A936-45ACDE23DA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF79F6F0-A55C-4460-A936-45ACDE23DA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -678,6 +696,9 @@ Global
 		{6CB4DED8-DE25-4FFC-A9E3-98FBAEDB7C49} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 		{5532CE66-828F-4A05-B0D0-511D5605C72D} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 		{229185FE-AF48-4771-B8D7-F48A17C6DE3E} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{FC43F31E-CADA-4243-A1F6-97D60E70A093} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{DF79F6F0-A55C-4460-A936-45ACDE23DA7A} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
+		{4773A3A6-3E64-44F8-97EC-C02E58E0CFB7} = {1BA1369C-D8C1-410E-B7EB-7FC9E63B4B15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E4BAB2F5-BECD-41F9-A656-F59ACCCCF209}
