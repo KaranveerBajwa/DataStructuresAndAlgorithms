@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace RearrangeElements
+namespace RearrangeStrings
 {
   public class MaxHeap
   {
