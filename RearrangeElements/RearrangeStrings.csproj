@@ -5,9 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\DirectedGraph\DirectedGraphs.csproj" />
-    <ProjectReference Include="..\Graphs\Graphs.csproj" />
-  </ItemGroup>
-
 </Project>
