@@ -13,6 +13,7 @@ namespace RearrangeStrings
       Console.WriteLine(RearrangeString("aapa"));
       Console.WriteLine(RearrangeString("aappp"));
 
+      Console.WriteLine(RearrangeStringKApart("mmpp", 2));
       Console.WriteLine("What a wonderful World!");
     }
     // create a dictionary with character and frequency
@@ -54,7 +55,50 @@ namespace RearrangeStrings
       return sb.Length == str.Length ? sb.ToString() : "";
     }
 
-  
+
+    static string RearrangeStringKApart(string str, int k)
+    {
+      // populate  dictionary
+      // populate max heap
+      // get the top element
+      // add to the result , decrement the counter
+      // add the element to 
+      Queue<Element> queue = new Queue<Element>();
+      Dictionary<char, int> dict = new Dictionary<char, int>();
+
+      StringBuilder sb = new StringBuilder();
+      for (int i = 0; i < str.Length; i++)
+      {
+        if (!dict.ContainsKey(str[i]))
+        {
+          dict.Add(str[i], 0);
+        }
+        dict[str[i]]++;
+      }
+
+      MaxHeap maxHeap = new MaxHeap(dict.Count);
+      foreach (var entry in dict)
+      {
+        maxHeap.Insert(new Element(entry.Key, entry.Value));
+      }
+
+      while (maxHeap.Count > 0)
+      {
+        Element current = maxHeap.Delete();
+        sb.Append(current.Character);
+        current.Frequency--;
+        if (current.Frequency > 0)
+          queue.Enqueue(current);
+        
+        if (queue.Count == k)
+        {
+          maxHeap.Insert(queue.Dequeue());
+        }
+      }
+
+      return sb.Length == str.Length ? sb.ToString() : "";
+    }
+
   }
 
   public class Element
