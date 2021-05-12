@@ -17,14 +17,17 @@ namespace TowerOfHanoi
 
     }
 
-    static void TOH(int n, char a, char b, char c)
+    static void TOH(int n, char from, char aux, char to)
     {
       if (n == 0)
+      {
+      //  Console.WriteLine($"Move {n} disk from {from} to {to}");
         return;
+      }
 
-      TOH(n - 1, 'A', 'C', 'B');
-      Console.WriteLine($"Move {n} disk from {a} to {c}");
-      TOH(n - 1, 'B', 'A', 'C');
+      TOH(n - 1, from, to, aux);
+      Console.WriteLine($"Move {n} disk from {from} to {to}");
+      TOH(n - 1, aux,from,to);
 
 
     }
