@@ -41,15 +41,7 @@ namespace DoubleEndedQueue
     {
       if (Count == size)
         throw new Exception("Queue is full");
-      if (Count == 0)
-      {
-        front = 0;
-        rear = front;
-      }
-      else if (front == 0)
-        front = arr.Length - 1;
-      else
-        front = (front - 1) % size;
+        front = (front - 1 + size) % size;      
       arr[front] = n;
       Count++;
     }
@@ -91,7 +83,7 @@ namespace DoubleEndedQueue
         throw new Exception("Queue is empty");
 
       int res = arr[rear];
-      rear = (rear - 1) % size;
+      rear = (rear - 1 + size) % size;
       Count = Count - 1;
       if (Count == 0)
       {
