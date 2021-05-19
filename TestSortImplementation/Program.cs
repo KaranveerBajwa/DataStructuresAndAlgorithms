@@ -17,19 +17,19 @@ namespace TestSortImplementation
     }
 
 
-    public static int Sort(int[] arr,int[] aux, int lo, int hi,int[] count)
+    public static int Sort(int[] arr,int[] aux, int lo, int hi)
     {
       int   invCount = 0;
       if (lo >= hi)
         return 0;
       int mid = lo + (hi - lo) / 2;
-      invCount += Sort(arr, aux, lo, mid, count);
-      invCount += Sort(arr, aux,mid + 1, hi, count);
-      invCount += Merge(arr, aux, lo, mid, hi, count);
+      invCount += Sort(arr, aux, lo, mid);
+      invCount += Sort(arr, aux,mid + 1, hi);
+      invCount += Merge(arr, aux, lo, mid, hi);
       return invCount;
     }
 
-    public static int Merge(int[] arr, int[] aux, int lo, int mid, int hi, int[] count )
+    public static int Merge(int[] arr, int[] aux, int lo, int mid, int hi)
     {
       int invCount = 0;
       int i = lo;

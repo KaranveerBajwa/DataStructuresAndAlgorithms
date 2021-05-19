@@ -27,5 +27,30 @@ namespace MergeSorting
     
     }
 
+
+    public void Merge(int[] arr, int[] aux, int low, int mid, int high)
+    {
+      for (int i = low; i <= high; i++)
+      {
+        aux[i] = arr[i];
+      }
+
+      int left = low;
+      int right = mid + 1;
+
+      for (int i = low; i <= high; i++)
+      {
+        if (left > mid)
+          arr[i] = aux[right++];
+        else if (right > high)
+          arr[i] = aux[left++];
+        else if (aux[left] <= aux[right])
+          arr[i] = aux[left++];
+        else
+          arr[i] = aux[right++];
+      }
+    
+    }
+
   }
 }

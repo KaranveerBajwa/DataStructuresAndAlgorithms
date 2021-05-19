@@ -21,7 +21,8 @@ namespace MoveAllZeroesToRight
       int[] arr4 = { 1, 0, 3, 2, 0, 4, 5, 0 };
       MoveZeroesToRight(arr4);
       Console.WriteLine(String.Join(",", arr4 ));
-
+      int[] ip = { 0, 0 };
+      MoveToZeroesToRightMaintainOrder(ip);
       Console.WriteLine();
 
     }
@@ -48,6 +49,25 @@ namespace MoveAllZeroesToRight
         else
           start++;
       }
+    }
+
+    static void MoveToZeroesToRightMaintainOrder(int[] arr)
+    {
+      int left = -1;
+      int right = 0;
+      while (right < arr.Length)
+      {
+        if (arr[right] != 0)
+        {
+          left = left + 1;
+          Swap(arr, left, right);
+          right++;
+        }
+        else
+          right++;
+      
+      }
+    
     }
 
     static void Swap(int[] arr, int start, int end)
